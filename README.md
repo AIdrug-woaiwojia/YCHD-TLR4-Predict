@@ -2,7 +2,7 @@
 Discovery of the active ingredient of Yinchenhao Decoction targeting TLR4 for hepatic inflammatory diseases based on deep learning approach
 
 ### Architecture   
-![](framework.tif)
+![](framework.png)
 
 # Usage
 ## 1. How to use it?
